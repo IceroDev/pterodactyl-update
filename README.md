@@ -6,4 +6,4 @@ Un tutoriel pour DediGo.fr !
 - [Comment mettre à jour ses wings ?](https://dedigo.fr/clients/knowledgebase/80/Comment-mettre-a-jour-ses-wings-.html)
 - [Comment mettre à jour son panel et ses wings ?](https://dedigo.fr/clients/knowledgebase/79/Comment-mettre-a-jour-son-panel-et-ses-wings-.html)
 
-Le script d'update à été crée par SuperKali
+Le script d'update Panel+Wings à été crée par SuperKali
